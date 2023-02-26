@@ -1,13 +1,13 @@
-![LinkedIn Cover 3](https://user-images.githubusercontent.com/82339317/218186208-eb93e3f5-ce6a-498d-bbb1-f4fdf747c056.jpg)
+![LinkedIn Cover Main](https://user-images.githubusercontent.com/82339317/221408546-dbcf3f2b-33e1-41c9-943a-23b1d7f5b383.jpg)
 <h1 align="center">Hi 👋, I'm Collins Bawa. Nice to meet you virtually!</h1>
-<h3 align="center">As a results-oriented Full-stack developer, I possess a strong skill set in both UI design and penetration testing. I have a passion for seeking and sharing knowledge, particularly with those who are underserved.<h3>
+<h3 align="center">As a results-oriented Full-stack developer, I possess a strong skill set in both UX/UI design and penetration testing. I have a passion for seeking and sharing knowledge, particularly with those who are underserved.<h3>
 
 - 🌱 I’m currently learning Full-Stack Development
 - 💬 Ask me about Programming, Penetration Testing, Design
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/collins-bawa-2800191a2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BawaCollins) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/captainbawa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BawaCollins) 
 
 [![](https://visitcount.itsvg.in/api?id=CaptainBawa&icon=6&color=7)](https://visitcount.itsvg.in)
 
