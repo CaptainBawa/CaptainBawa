@@ -7,10 +7,7 @@
 
 
 ## 🌐 Socials:
-  <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/captainbawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/captainbawa" height="30" width="40" /></a>
-</p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/captainbawa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BawaCollins) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/captainbawa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BawaCollins) 
 
 [![](https://visitcount.itsvg.in/api?id=CaptainBawa&icon=6&color=7)](https://visitcount.itsvg.in)
 
